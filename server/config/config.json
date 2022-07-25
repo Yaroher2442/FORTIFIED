@@ -1,0 +1,15 @@
+{
+  "bot": {
+    "token": "5457582694:AAHe9WDIvUIyttgs3UOyl2ewkL2gVlAy0tg"
+  },
+  "gitlab": {
+    "secret_token": "7b3d49a1-a704-4a81-9637-be92ac8f7f97"
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8888,
+    "database": {
+      "db_url": "sqlite://database/db.sqlite3"
+    }
+  }
+}
